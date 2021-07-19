@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/yaswanth/static/css/main.d1e422bb.chunk.css",
-    "main.js": "/yaswanth/static/js/main.ab1325e6.chunk.js",
-    "main.js.map": "/yaswanth/static/js/main.ab1325e6.chunk.js.map",
+    "main.css": "/yaswanth/static/css/main.472ebc4e.chunk.css",
+    "main.js": "/yaswanth/static/js/main.9c9a22f4.chunk.js",
+    "main.js.map": "/yaswanth/static/js/main.9c9a22f4.chunk.js.map",
     "runtime-main.js": "/yaswanth/static/js/runtime-main.fa890746.js",
     "runtime-main.js.map": "/yaswanth/static/js/runtime-main.fa890746.js.map",
     "static/js/2.7ea143f6.chunk.js": "/yaswanth/static/js/2.7ea143f6.chunk.js",
     "static/js/2.7ea143f6.chunk.js.map": "/yaswanth/static/js/2.7ea143f6.chunk.js.map",
     "index.html": "/yaswanth/index.html",
-    "static/css/main.d1e422bb.chunk.css.map": "/yaswanth/static/css/main.d1e422bb.chunk.css.map",
+    "static/css/main.472ebc4e.chunk.css.map": "/yaswanth/static/css/main.472ebc4e.chunk.css.map",
     "static/js/2.7ea143f6.chunk.js.LICENSE.txt": "/yaswanth/static/js/2.7ea143f6.chunk.js.LICENSE.txt",
     "static/media/HTML.f3aa7827.png": "/yaswanth/static/media/HTML.f3aa7827.png",
+    "static/media/back1.28bda32b.svg": "/yaswanth/static/media/back1.28bda32b.svg",
     "static/media/ch-1.941bc1c0.PNG": "/yaswanth/static/media/ch-1.941bc1c0.PNG",
     "static/media/chome.6782ccfd.PNG": "/yaswanth/static/media/chome.6782ccfd.PNG",
     "static/media/css.9f33c557.png": "/yaswanth/static/media/css.9f33c557.png",
@@ -30,12 +31,17 @@
     "static/media/logo1.94e48dca.jpeg": "/yaswanth/static/media/logo1.94e48dca.jpeg",
     "static/media/mysql.167c8855.png": "/yaswanth/static/media/mysql.167c8855.png",
     "static/media/node.8c4d62ed.png": "/yaswanth/static/media/node.8c4d62ed.png",
-    "static/media/react1.44319306.png": "/yaswanth/static/media/react1.44319306.png"
+    "static/media/react1.44319306.png": "/yaswanth/static/media/react1.44319306.png",
+    "static/media/skillsPic.eba4a827.svg": "/yaswanth/static/media/skillsPic.eba4a827.svg",
+    "static/media/trfour.03537988.PNG": "/yaswanth/static/media/trfour.03537988.PNG",
+    "static/media/trone.5144a8eb.PNG": "/yaswanth/static/media/trone.5144a8eb.PNG",
+    "static/media/trthree.9d67d95b.PNG": "/yaswanth/static/media/trthree.9d67d95b.PNG",
+    "static/media/trtwo.b88fa819.PNG": "/yaswanth/static/media/trtwo.b88fa819.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.fa890746.js",
     "static/js/2.7ea143f6.chunk.js",
-    "static/css/main.d1e422bb.chunk.css",
-    "static/js/main.ab1325e6.chunk.js"
+    "static/css/main.472ebc4e.chunk.css",
+    "static/js/main.9c9a22f4.chunk.js"
   ]
 }
